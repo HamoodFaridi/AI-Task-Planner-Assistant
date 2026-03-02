@@ -16,6 +16,15 @@ This project demonstrates:
 - Time-block suggestions
 - Productivity advice
 - Fully offline AI processing (no API calls)
+## ✨ New in v1.1.0
+
+- Session-based plan history
+- Streaming AI responses
+- Streaming Preserved
+- Model selector preserved
+- Stop generation control
+- Dark mode toggle
+- Structured planner UI (non-chat format)
 
 ---
 
